@@ -1,4 +1,4 @@
-FROM jboss/base:latest
+FROM cybexer/base:latest
 MAINTAINER Marek Goldmann <mgoldman@redhat.com>
 
 # User root user to install software
